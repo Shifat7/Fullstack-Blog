@@ -1,2 +1,4 @@
-# Fullstack-Blog
-Made the React Blog Fullstack using MERN Stack
+# Class-Based-Refined-Social-Blog
+A huge improvement over the previous both functionally and design
+
+
