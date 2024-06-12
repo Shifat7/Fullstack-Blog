@@ -1,4 +1,2 @@
-# FullStack-Social-Blog
-A MERN stack website made using functional React.js
-
-
+# Class-Based-Refined-Social-Blog
+A huge improvement over the previous both functionally and design through major refactoring
