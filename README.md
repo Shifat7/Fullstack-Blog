@@ -1,4 +1,4 @@
 # Class-Based-Refined-Social-Blog
-A huge improvement over the previous both functionally and design
+A huge improvement over the previous both functionally and design through major refactoring
 
 
